@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Assignment 2 Hadoop-WordCount-Updated.iml" filepath="$PROJECT_DIR$/.idea/Assignment 2 Hadoop-WordCount-Updated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wordcount.iml" filepath="$PROJECT_DIR$/wordcount.iml" />
     </modules>
   </component>
 </project>
